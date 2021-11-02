@@ -14,6 +14,3 @@ import { GraphQLModule } from '@nestjs/graphql';
   providers: [AppService],
 })
 export class AppModule {}
-
-@Module({
- imports:
